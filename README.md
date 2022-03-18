@@ -1,4 +1,4 @@
-# Into to Python
+# Intro to Python
 
 ## Healthy Gamer Discord 2022
 
